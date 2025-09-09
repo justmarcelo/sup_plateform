@@ -1,8 +1,20 @@
-# .gitignore
+# Environnement virtuel
 venv/
+.env
+
+# Python
 *.pyc
 __pycache__/
+*.pyo
+*.pyd
+
+# Base de données
 *.sqlite3
-*.env
+*.db
+
+# Fichiers statiques compilés
 staticfiles/
+
+# Système
 .DS_Store
+Thumbs.db
