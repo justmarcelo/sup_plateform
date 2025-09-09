@@ -20,13 +20,17 @@ orientation_plateform/
 
 
 
-# Orientation Plateform MVP
+# Orientation Plateform - MVP
 
-Plateforme d'orientation inspirée de Parcoursup, développée avec Django et MariaDB.
+Plateforme d'orientation académique inspirée de Parcoursup, développée avec Django et MariaDB.
+
+## Prérequis
+- Python 3.10+
+- MariaDB
+- Apache2 (ou Nginx) avec mod_wsgi
 
 ## Installation
-
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/justmarcelo/orientation_plateform.git
+   git clone https://github.com/ton_utilisateur/orientation_plateform.git
    cd orientation_plateform
