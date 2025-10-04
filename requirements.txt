@@ -1,7 +1,0 @@
-Django==5.0
-mariadb==1.1.7
-django-allauth==0.58.2
-django-crispy-forms==2.1
-django-filter==23.5
-python-dotenv==1.0.0
-Pillow==10.1.0
